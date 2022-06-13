@@ -1,0 +1,9 @@
+C:\Codacy\GitHubTutorial\GitHubTutorial\bin\Debug\GitHubTutorial.exe.config
+C:\Codacy\GitHubTutorial\GitHubTutorial\bin\Debug\GitHubTutorial.exe
+C:\Codacy\GitHubTutorial\GitHubTutorial\bin\Debug\GitHubTutorial.pdb
+C:\Codacy\GitHubTutorial\GitHubTutorial\obj\Debug\GitHubTutorial.csprojResolveAssemblyReference.cache
+C:\Codacy\GitHubTutorial\GitHubTutorial\obj\Debug\GitHubTutorial.Form1.resources
+C:\Codacy\GitHubTutorial\GitHubTutorial\obj\Debug\GitHubTutorial.Properties.Resources.resources
+C:\Codacy\GitHubTutorial\GitHubTutorial\obj\Debug\GitHubTutorial.csproj.GenerateResource.Cache
+C:\Codacy\GitHubTutorial\GitHubTutorial\obj\Debug\GitHubTutorial.exe
+C:\Codacy\GitHubTutorial\GitHubTutorial\obj\Debug\GitHubTutorial.pdb
